@@ -17,7 +17,7 @@ Latest release:
 A pre-release version of **MS-PyCloud** with electron UI is ready in the releases section. 04/24/2024
 
 Historical release:
-The version of **ms-pycloud** available on Bitbucket represents a historical version of our software. 
+The version of **MS-PyCloud** available on Bitbucket represents a historical version (v2101) of our software. 
    - [ms-pycloud Historical Version on Bitbucket](https://bitbucket.org/mschnau1/ms-pycloud/src/main/)
 
 
