@@ -21,14 +21,14 @@ For any further inquiries or feedback, please don't hesitate to contact us via e
 
 ## References
 
-# Software Tools
+### Software Tools
 - Toghi Eshghi, S.; Shah, P.; Yang, W.; Li, X.; Zhang, H. GPQuest: A Spectral Library Matching Algorithm for Site-Specific Assignment of Tandem Mass Spectra to Intact N-glycopeptides. Anal Chem 2015, 87 (10), 5181-5188. DOI: 10.1021/acs.analchem.5b00024
 - Adusumilli, R.; Mallick, P. Data Conversion with ProteoWizard msConvert. Methods Mol Biol 2017, 1550, 339-368. DOI: 10.1007/978-1-4939-6747-6_23.
 - Kim, S.; Pevzner, P. A. MS-GF+ makes progress towards a universal database search tool for proteomics. Nat Commun 2014, 5 (1), 5277. DOI: 10.1038/ncomms6277.
 - Sun, S.; Hu, Y.; Ao, M.; Shah, P.; Chen, J.; Yang, W.; Jia, X.; Tian, Y.; Thomas, S.; Zhang, H. N-GlycositeAtlas: a database resource for mass spectrometry-based human N-linked glycoprotein and glycosylation site mapping. Clin Proteomics 2019, 16 (1), 35. DOI: 10.1186/s12014-019-9254-0.
 - Ma, Z. Q.; Polzin, K. O.; Dasari, S.; Chambers, M. C.; Schilling, B.; Gibson, B. W.; Tran, B. Q.; Vega-Montoto, L.; Liebler, D. C.; Tabb, D. L. QuaMeter: multivendor performance metrics for LC-MS/MS proteomics instrumentation. Anal Chem 2012, 84 (14), 5845-5850. DOI: 10.1021/ac300629p.
 
-# Algorithm
+### Algorithm
 - Zhang, B.; Chambers, M. C.; Tabb, D. L. Proteomic parsimony through bipartite graph analysis improves accuracy and transparency. J Proteome Res 2007, 6 (9), 3549-3557. DOI: 10.1021/pr070230d.
 - Ma, Z. Q.; Dasari, S.; Chambers, M. C.; Litton, M. D.; Sobecki, S. M.; Zimmerman, L. J.; Halvey, P. J.; Schilling, B.; Drake, P. M.; Gibson, B. W.; Tabb, D. L. IDPicker 2.0: Improved protein assembly with high discrimination peptide identification filtering. J Proteome Res 2009, 8 (8), 3872-3881. DOI: 10.1021/pr900360j.
 - Patro, R.; Kingsford, C. Predicting protein interactions via parsimonious network history inference. Bioinformatics 2013, 29 (13), i237-246. DOI: 10.1093/bioinformatics/btt224.
